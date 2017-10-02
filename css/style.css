@@ -1,0 +1,11 @@
+ol li li {
+   border: 1px solid green;
+}
+
+li em {
+   background-color: #aaa;
+}
+
+li + li {
+   background-color: yellow;
+}
